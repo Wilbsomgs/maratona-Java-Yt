@@ -16,7 +16,6 @@ public class Aula05EstruturasCondicionais02 {
         }else{
             categoria = "Categoria adulto";
         }
-
         System.out.println(categoria);
     }
 }
